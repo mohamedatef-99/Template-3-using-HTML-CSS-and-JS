@@ -1,1 +1,1 @@
-# Template-3-using-HTML-CSS-and-JS.github.io
+# Template-3-using-HTML-CSS-and-JS
